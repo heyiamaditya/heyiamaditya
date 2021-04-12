@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 ### 🔭 I’m currently working on c++ and js 
+![example gif](https://user-images.githubusercontent.com/56030133/114426831-14415800-9bd8-11eb-844b-832399e40e35.gif)
+
 
 
 ### 🌱 I’m currently learning ML
