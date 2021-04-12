@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 ### 🔭 I’m currently working on c++ and js
 ### 🌱 I’m currently learning ML
+### 💬  A Prpgrammer who lift's in Dumble in GYM
 <!-- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about a Prpgrammer who lift's in Dumble in GYM
