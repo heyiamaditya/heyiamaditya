@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 ### 🔭 I’m currently working on c++ and js 
-![image](https://user-images.githubusercontent.com/56030133/114425894-2242a900-9bd7-11eb-8d22-e76ab393e266.png)
+
 
 ### 🌱 I’m currently learning ML
 ### 💬  A Prpgrammer who lift's in Dumble in GYM
