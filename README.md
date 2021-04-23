@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ### 🌱 I’m currently learning ML
-### 💬  A Prpgrammer who lift's in Dumble in GYM
+### 💬  A Programmer who lift's Dumble in GYM
 <!-- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about a Prpgrammer who lift's in Dumble in GYM
